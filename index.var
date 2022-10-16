@@ -1,0 +1,10 @@
+URI: index
+
+
+URI: index.x.html
+Content-type: text/html
+Content-language: en fr us de
+
+URI: index.hi.html
+Content-type: text/html
+Content-language: hi
